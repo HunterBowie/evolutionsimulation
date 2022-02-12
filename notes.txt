@@ -1,0 +1,28 @@
+creature -> selection score
+top 50% chosen
+
+
+"1-9-1-9-10" GENOME
+(True, 9, True, 9, 10)
+"SOURCE-ID-SINK-ID-WEIGHT
+
+True -> action or sensory
+
+[(True, 0, True, 0, 10)]
+
+1-1111-1-1111-11
+
+
+
+
+All Neurons Output value 1 - 10
+Connections can have a weight of -10 - 10
+
+
+
+BG = LIGHT_BLUE
+HERBIVORE = YELLOW
+CARNIVORE = RED
+FOOD = GREEN
+
+

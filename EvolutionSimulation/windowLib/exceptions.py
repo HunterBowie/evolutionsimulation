@@ -1,0 +1,2 @@
+class IterableItemMissingError(Exception):
+    pass
